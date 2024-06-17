@@ -10,24 +10,17 @@ Loop to perform multiple calculations until the user decides to exit.
   Python 3
 **Usage**
   Clone this repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/yourusername/simple-calculator.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd simple-calculator
-Run the calculator script:
-
-python calculator.py
-    Follow the prompts to perform calculations:
-    Enter the first number.
-    Enter the operation (+, -, *, /).
-    Enter the second number.
-    The result will be displayed.
-    You will be asked if you want to perform another calculation. Enter yes to continue or no       to exit.
+    git clone https://github.com/biniam0/simple-calculator.git
+  Navigate to the project directory:
+    cd simple-calculator
+  Run the calculator script:
+    python calculator.py
+      Follow the prompts to perform calculations:
+      Enter the first number.
+      Enter the operation (+, -, *, /).
+      Enter the second number.
+      The result will be displayed.
+      You will be asked if you want to perform another calculation. Enter yes to continue or no       to exit.
 Example
     Welcome to Simple Calculator
     Enter first number: 5
